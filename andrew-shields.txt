@@ -8,7 +8,8 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     HML that provides meaning to our content.
 
     2. What is HTML used for? 
-
+    html is used to provide content structure of web pages
+    
     3. What is an attribute and where do we put it? 
     something that gives the html tag additional information, it is placed inside the <> brackets of the html tag.
 
@@ -122,7 +123,6 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     use git commit to make local commit and add message
     use git push to push local repo to github
     open pull request
-
 
 Stretch Questions
 
