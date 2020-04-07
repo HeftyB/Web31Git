@@ -130,7 +130,7 @@ Stretch Questions
     inline element flows next to previous element, a block element would have a break break and its own space
 
     2. What happens when an element is positioned absolutely? 
-    it is positioned relative to the nearest ancestor isntead of positioned relative to view
+    it is positioned relative to the nearest positioned ancestor isntead of positioned relative to view
 
     3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? 
     use a realtive unit of like % or fr
@@ -142,6 +142,6 @@ Stretch Questions
 
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
 
-
+    the box model puts all the html elements into "boxes" layed out the page depending on markup. Each box has it's content in the middle surrounding by an area of padding, which is surrounded by a boarder, which itself is surrounded by a margin area. Using the elements of the box model you are able to layout boxes for design. The fix for the box model would be proper sizing of boxes using measurments that allow for responsive design.
 
    --> 
